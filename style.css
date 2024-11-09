@@ -215,3 +215,20 @@ li:not(:first-child) span {
         font-size: 0.9rem; 
     }
 }
+@media (max-width: 480px) {
+    .wrapper {
+        padding: 15px;
+    }
+    
+    .typing-text p {
+        font-size: 1rem; 
+    }
+    
+    .result-details li {
+        margin-bottom: 10px;
+    }
+    
+    .content button {
+        margin-top: 10px;
+    }
+}
