@@ -106,3 +106,6 @@ function resetGame() {
     mistakeTag.innerText = 0;
     cpmTag.innerText = 0;
 }
+loadParagraph();
+inpField.addEventListener("input", initTyping);
+tryAgainBtn.addEventListener("click", resetGame);
