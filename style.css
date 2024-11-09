@@ -18,3 +18,33 @@ body {
 
 }
 h1 {
+    text-align: center;
+    color: #d7d7e2;
+    margin: 10px 0;
+}
+
+#paragraph {
+    color: #fcfcfc8f;
+}
+
+.result-details {
+    color: rgb(255, 255, 255);
+}
+
+::selection {
+    color: #ffffff;
+    background: #24668f;
+}
+
+.wrapper {
+    max-width: 1200px;
+    width: 100%; /* Changed to 90% for responsiveness */
+    height: auto;
+    padding: 35px;
+    background: #07070713;
+    border-radius: 10px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.05);
+    overflow: hidden; /* Prevent overflow */
+}
+
+.wrapper .input-field {
