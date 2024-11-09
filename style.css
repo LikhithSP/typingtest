@@ -78,3 +78,23 @@ h1 {
     color: #d1dd62;
 }
 
+.typing-text p span.incorrect {
+    color: #da1b2e;
+    border-radius: 4px;
+}
+
+.typing-text p span.active::before {
+    position: absolute;
+    content: "";
+    height: 2px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    opacity: 0;
+    border-radius: 5px;
+    background: #4b9ed6;
+    animation: blink 1s ease-in-out infinite;
+}
+
+@keyframes blink {
+    50% {
