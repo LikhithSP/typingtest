@@ -157,5 +157,19 @@ h1 {
 }
 
 .result-details li p {
-    font-size: 1rem; /* Base font size */
+    font-size: 1rem; 
+}
+.result-details li span {
+    display: block;
+    font-size: 1.125rem; 
+    margin-left: 10px;
+    color: #dee036;
+}
+
+li span b {
+    font-weight: 500;
+}
+
+li:not(:first-child) span {
+    font-weight: 500;
 }
