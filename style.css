@@ -142,3 +142,20 @@ h1 {
     width: calc(100% - 140px);
     justify-content: space-between;
 }
+
+.result-details li {
+    display: flex;
+    height: 20px;
+    list-style: none;
+    position: relative;
+    align-items: center;
+}
+
+.result-details li:not(:first-child) {
+    padding-left: 22px;
+    border-left: 2px solid #634b3c;
+}
+
+.result-details li p {
+    font-size: 1rem; /* Base font size */
+}
