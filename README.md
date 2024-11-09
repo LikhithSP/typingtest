@@ -48,12 +48,6 @@
   <li><strong>JavaScript</strong> - Functionality for typing logic, live updates, and timers.</li>
 </ul>
 
-<h2>📂 File Structure</h2>
-<ul>
-  <li><code>index.html</code> - Main HTML file for structure.</li>
-  <li><code>style.css</code> - Contains all styling for the game.</li>
-  <li><code>script.js</code> - Contains the game logic and functionality.</li>
-</ul>
 
 <h2>💡 Future Improvements</h2>
 <ul>
@@ -65,5 +59,5 @@
 <h2>🤝 Contributing</h2>
 <p>Contributions are welcome! Feel free to open issues or submit pull requests to improve the game.</p>
 
-<h2>📄 License</h2>
-<p>This project is licensed under the MIT License.</p>
+<h2>🍀 Accomplishments </h2>
+Thanks to [MonkeyType](https://www.monkeytype.com) for inspiration and AI for beautiful and aesthetic background image 
