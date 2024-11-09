@@ -59,5 +59,16 @@
 <h2>🤝 Contributing</h2>
 <p>Contributions are welcome! Feel free to open issues or submit pull requests to improve the game.</p>
 
-<h2>🍀 Accomplishments </h2>
-Thanks to [MonkeyType](https://www.monkeytype.com) for inspiration and AI for beautiful and aesthetic background image 
+## 🍀 Accomplishments 
+- [MonkeyType](https://www.monkeytype.com) for inspiration and AI for beautiful and aesthetic background image
+  
+<h2>🤝 Connect With Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/likhithsp" target="_blank">
+    <img src="https://img.icons8.com/?size=60&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" class="icon">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.github.com/LikhithSP" target="_blank">
+    <img src="https://img.icons8.com/?size=60&id=46565&format=png&color=000000" alt="GitHub" class="icon">
+  </a>
+</p>
