@@ -1,50 +1,68 @@
-# 🖋️ Speed Typing Game
-Challenge yourself to type faster and more accurately with this interactive speed typing game! Track your WPM (Words Per Minute), CPM (Characters Per Minute), and see your mistakes count as you type through dynamically loaded paragraphs. Test your skills, improve your speed, and compete with yourself!
+<h1>🖋️ Speed Typing Game</h1>
 
-<!-- Include a demo gif or screenshot in the assets folder for a visual overview -->
+<p>Challenge yourself to type faster and more accurately with this <strong>interactive speed typing game</strong>! Track your <strong>WPM (Words Per Minute)</strong>, <strong>CPM (Characters Per Minute)</strong>, and see your <strong>mistakes</strong> count as you type through dynamically loaded paragraphs. Test your skills, improve your speed, and compete with yourself!</p>
 
-🎯 Features
-Real-Time Typing Feedback: Characters turn green for correct inputs and red for mistakes.
-Live Stats Update: Displays WPM, CPM, remaining time, and mistake count.
-Responsive Design: Works on various screen sizes, making it accessible on mobile, tablets, and desktops.
-Varied Paragraphs: Randomly loads a new paragraph each session for a fresh challenge every time.
-🚀 Getting Started
-To get a local copy up and running, follow these steps:
+<img src="./assets/demo.gif" alt="Typing Speed Game Demo"> <!-- Include a demo gif or screenshot in the assets folder for a visual overview -->
 
-Prerequisites
-Make sure you have a text editor and a live server extension or a similar tool to view the game in real-time.
+<h2>🎯 Features</h2>
+<ul>
+  <li><strong>Real-Time Typing Feedback</strong>: Characters turn green for correct inputs and red for mistakes.</li>
+  <li><strong>Live Stats Update</strong>: Displays <strong>WPM</strong>, <strong>CPM</strong>, remaining <strong>time</strong>, and <strong>mistake count</strong>.</li>
+  <li><strong>Responsive Design</strong>: Works on various screen sizes, making it accessible on mobile, tablets, and desktops.</li>
+  <li><strong>Varied Paragraphs</strong>: Randomly loads a new paragraph each session for a fresh challenge every time.</li>
+</ul>
 
-Installation
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/speed-typing-game.git
-Navigate to the project folder:
-bash
-Copy code
-cd speed-typing-game
-Run the project:
-Open index.html in a browser or use a live server extension in your editor to start the game.
-📋 How to Play
-Hit the "Try Again" button to load a new random paragraph.
-Begin typing in the input field to start the countdown.
-Keep typing! See your WPM and mistakes update as you go.
-The game ends when the time reaches zero or you complete the paragraph.
-Click "Try Again" to reset the game and try to beat your previous score!
-🛠️ Built With
-HTML - Structure and layout of the game.
-CSS - Styling for a clean and modern user interface.
-JavaScript - Functionality for typing logic, live updates, and timers.
-📂 File Structure
-index.html - Main HTML file for structure.
-style.css - Contains all styling for the game.
-script.js - Contains the game logic and functionality.
-💡 Future Improvements
-Leaderboard: Add a high-score leaderboard to track progress and competition.
-Dark Mode: Toggle between light and dark themes for more accessibility.
-Difficulty Levels: Different time limits or longer paragraphs for advanced users.
-🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests to improve the game.
+<h2>🚀 Getting Started</h2>
+<p>To get a local copy up and running, follow these steps:</p>
 
-📄 License
-This project is licensed under the MIT License.
+<h3>Prerequisites</h3>
+<p>Make sure you have a text editor and a live server extension or a similar tool to view the game in real-time.</p>
+
+<h3>Installation</h3>
+<ol>
+  <li><strong>Clone the repository</strong>:
+    <pre><code>git clone https://github.com/your-username/speed-typing-game.git</code></pre>
+  </li>
+  <li><strong>Navigate to the project folder</strong>:
+    <pre><code>cd speed-typing-game</code></pre>
+  </li>
+  <li><strong>Run the project</strong>:
+    <p>Open <code>index.html</code> in a browser or use a live server extension in your editor to start the game.</p>
+  </li>
+</ol>
+
+<h2>📋 How to Play</h2>
+<ol>
+  <li>Hit the "Try Again" button to load a new random paragraph.</li>
+  <li>Begin typing in the input field to start the countdown.</li>
+  <li>Keep typing! See your <strong>WPM</strong> and <strong>mistakes</strong> update as you go.</li>
+  <li>The game ends when the time reaches zero or you complete the paragraph.</li>
+  <li>Click "Try Again" to reset the game and try to beat your previous score!</li>
+</ol>
+
+<h2>🛠️ Built With</h2>
+<ul>
+  <li><strong>HTML</strong> - Structure and layout of the game.</li>
+  <li><strong>CSS</strong> - Styling for a clean and modern user interface.</li>
+  <li><strong>JavaScript</strong> - Functionality for typing logic, live updates, and timers.</li>
+</ul>
+
+<h2>📂 File Structure</h2>
+<ul>
+  <li><code>index.html</code> - Main HTML file for structure.</li>
+  <li><code>style.css</code> - Contains all styling for the game.</li>
+  <li><code>script.js</code> - Contains the game logic and functionality.</li>
+</ul>
+
+<h2>💡 Future Improvements</h2>
+<ul>
+  <li><strong>Leaderboard</strong>: Add a high-score leaderboard to track progress and competition.</li>
+  <li><strong>Dark Mode</strong>: Toggle between light and dark themes for more accessibility.</li>
+  <li><strong>Difficulty Levels</strong>: Different time limits or longer paragraphs for advanced users.</li>
+</ul>
+
+<h2>🤝 Contributing</h2>
+<p>Contributions are welcome! Feel free to open issues or submit pull requests to improve the game.</p>
+
+<h2>📄 License</h2>
+<p>This project is licensed under the MIT License.</p>
