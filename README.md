@@ -1,9 +1,10 @@
-<h1>🖋️ Speed Typing Game</h1>
+<h1>⌨️ Speed Typing Game</h1>
 
-<p>Challenge yourself to type faster and more accurately with this <strong>interactive speed typing game</strong>! Track your <strong>WPM (Words Per Minute)</strong>, <strong>CPM (Characters Per Minute)</strong>, and see your <strong>mistakes</strong> count as you type through dynamically loaded paragraphs. Test your skills, improve your speed, and compete with yourself!</p>
-
-<img src="./assets/demo.gif" alt="Typing Speed Game Demo"> <!-- Include a demo gif or screenshot in the assets folder for a visual overview -->
-
+  <div class="preview">
+        <img src="https://i.ibb.co/v1FT35n/image-7.png" alt="Typing Speed Game Demo">
+    </div>
+    <p align="center"><strong>Aesthetically pleasing & interactive speed typing game to improve your speed, and challenge yourself to type faster and more accurately with dynamically loaded paragraphs</strong></p>
+    
 <h2>🎯 Features</h2>
 <ul>
   <li><strong>Real-Time Typing Feedback</strong>: Characters turn green for correct inputs and red for mistakes.</li>
