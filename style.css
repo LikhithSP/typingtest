@@ -126,3 +126,19 @@ h1 {
     background: none;
     transition: transform 0.2s ease;
 }
+
+.content button:active {
+    transform: scale(0.89);
+}
+
+.content button:hover {
+    background: #fffefe;
+}
+
+.content .result-details {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    width: calc(100% - 140px);
+    justify-content: space-between;
+}
